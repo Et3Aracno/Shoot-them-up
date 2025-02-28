@@ -49,4 +49,4 @@ Le code source du projet se trouve dans la branche master du dépôt.
 
 Créé par Maxime Luhat et Leo Grognet - 📩 luhatmaxime@gmail.com,📩 leo.grgnt@gmail.com
 
-📢 N’hésitez pas à me contacter par mail si vous avez des questions ! 🚀
+📢 N’hésitez pas à nous contacter par mail si vous avez des questions ! 🚀
