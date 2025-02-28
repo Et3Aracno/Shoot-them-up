@@ -1,10 +1,8 @@
 🚀 SHOOT 'EM UP - BATTLE IN SPACE 🌌
 
-Bienvenue dans 🚀 Shoot 'Em Up - Battle in Space, un jeu en C++ avec SFML où vous pilotez un vaisseau spatial pour affronter des vagues d'ennemis ! 🛸💥
-
 📝 DESCRIPTION
 
-Dans ce jeu, vous incarnez un pilote de vaisseau spatial et devez éliminer les vagues ennemies tout en esquivant leurs tirs.
+Dans ce jeu, vous incarnez un pilote de vaisseau steampunck et devez éliminer les vagues ennemies tout en esquivant leurs tirs.
 Votre objectif est de survivre et accumuler le plus de points possible ! 🎯
 
 Développé en C++ avec SFML, ce projet met en avant des mécaniques de tir rapide, de déplacements fluides et de gestion des ennemis dynamiques.
@@ -49,6 +47,6 @@ Le code source du projet se trouve dans la branche master du dépôt.
 
 📧 CONTACT
 
-Créé par Maxime Luhat et Leo Grognet - 📩 luhatmaxime@gmail.com ,
+Créé par Maxime Luhat et Leo Grognet - 📩 luhatmaxime@gmail.com
 
 📢 N’hésitez pas à me contacter par mail si vous avez des questions ! 🚀
